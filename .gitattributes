@@ -1,0 +1,10 @@
+*.css linguist-language=CSS linguist-vendored=false
+*.dockerignore linguist-language=Docker linguist-vendored=false
+*.gitignore linguist-language=Git linguist-vendored=false
+*.js linguist-language=JavaScript linguist-vendored=false
+*.json linguist-language=JSON linguist-vendored=false
+*.md linguist-language=Markdown linguist-vendored=false
+*.pug linguist-language=Pug linguist-vendored=false
+*.py linguist-language=Python linguist-vendored=false
+*.sh linguist-language=Bash linguist-vendored=false
+Dockerfile linguist-language=Docker linguist-vendored=false

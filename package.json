@@ -1,0 +1,24 @@
+{
+  "name": "awsauto",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo nothing to do for build.",
+    "start": "node ./bin/www",
+    "test":  "mocha"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "debug": "^4.1.1",
+    "express": "~4.17.1",
+    "express-basic-auth": "^1.2.0",
+    "http-errors": "~1.8.0",
+    "morgan": "~1.10.0",
+    "pug": "^3.0.0",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.2",
+    "supertest": "^4.0.2"
+  }
+}

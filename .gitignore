@@ -1,0 +1,10 @@
+node_modules
+icautomation-token
+*.log
+.DS_Store
+.git
+.idea
+.terraform
+.venv
+.vscode
+__pycache__
